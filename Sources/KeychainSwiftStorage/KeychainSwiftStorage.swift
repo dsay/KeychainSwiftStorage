@@ -1,5 +1,5 @@
 import KeychainSwift
-import Repository
+import SwiftRepository
 import Foundation
 
 extension KeychainSwift: Storage {

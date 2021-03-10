@@ -1,5 +1,5 @@
 import XCTest
-import Repository
+import SwiftRepository
 import KeychainSwift
 
 @testable import KeychainSwiftStorage

@@ -2,15 +2,6 @@
   "object": {
     "pins": [
       {
-        "package": "Alamofire",
-        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
-        "state": {
-          "branch": null,
-          "revision": "eaf6e622dd41b07b251d8f01752eab31bc811493",
-          "version": "5.4.1"
-        }
-      },
-      {
         "package": "KeychainSwift",
         "repositoryURL": "https://github.com/evgenyneu/keychain-swift.git",
         "state": {
@@ -20,30 +11,12 @@
         }
       },
       {
-        "package": "ObjectMapper",
-        "repositoryURL": "https://github.com/tristanhimmelman/ObjectMapper.git",
+        "package": "SwiftRepository",
+        "repositoryURL": "https://github.com/dsay/SwiftRepository.git",
         "state": {
           "branch": null,
-          "revision": "0b96a734de3ea1c87374ae677064f86adb0716ec",
-          "version": "4.2.0"
-        }
-      },
-      {
-        "package": "PromiseKit",
-        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
-        "state": {
-          "branch": null,
-          "revision": "aea48ea1855f5d82e2dffa6027afce3aab8f3dd7",
-          "version": "6.13.3"
-        }
-      },
-      {
-        "package": "Repository",
-        "repositoryURL": "https://github.com/dsay/Repository.git",
-        "state": {
-          "branch": null,
-          "revision": "4ed1d5580efc577b3d93a749842df8de5e084341",
-          "version": "0.5.4"
+          "revision": "80445787654b832ee62d813282474c7e5beca60a",
+          "version": "1.0.0"
         }
       }
     ]
